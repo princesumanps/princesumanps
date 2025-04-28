@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... making games
 - 🌱 I’m currently learning ... cse
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ... https://www.instagram.com/princekumar4562/
+- 📫 How to reach me ...
 
 <!---
 princesumanps/princesumanps is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
